@@ -1,7 +1,7 @@
 {
-  "name": "Telegram Open User Bot",
-  "description": "[OpenUserBot] A modular Telegram userbot running on Python 3.7+ with an sqlalchemy database.",
-  "logo": "https://telegra.ph/file/d04a1724c6dd8a957bd0e.png",
+  "name": "NAZI Paperplane",
+  "description": "[Paperplane Extended] powerful userbot running in python 3.6+",
+  "logo": "https://telegra.ph/file/08719f255435c512a821d.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/mkaraniya/OpenUserBot",
-  "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02",
-  "success_url": "https://t.me/PPE_Support",
+  "repository": "https://github.com/nazkun/Paperplane-v.1.0.1",
+  "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-07-24",
+  "success_url": "https://t.me/userbot_chat",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -136,7 +136,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default profile bio.",
-      "value": "[PM = Report Spam] I ❤ ️@OpenUserBot",
+      "value": "don't risk nazi is my love",
       "required": false
     },
     "ALIVE_NAME": {
